@@ -1,0 +1,3 @@
+# Exercicio-Java-DIO
+Exercício de Java proposto no bootcamp "Québec Java Digital" da DIO
+Apenas apliquei o Lombok apenas na Classe cliente, não achei necessário implementar em mais locais...
